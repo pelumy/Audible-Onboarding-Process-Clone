@@ -18,23 +18,17 @@
 <!-- PROJECT SCREENSHOTS -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
+  <h3 align="center">Audilbe Walkthrough Screen Clone </h3>
+    <p float = "left">
+      <img src="https://drive.google.com/uc?export=view&id=1sfBOdCo3juWMDGAwzeZrzk62VSjqzN2v" width = "300" >
+      <img src="https://drive.google.com/uc?export=view&id=1O3mxEBtKOdRnWBGe18WUxf1ZPJW21aps" width = "300" >
+    </p>
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    A clone of the Onboarding process of the Audible App
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <br />
+    <a href="https://drive.google.com/file/d/1H5Ig2qVi_HQngGDJh_wH-82bf2Ww-ISw/view?usp=sharing">View Demo</a>
   </p>
 </p>
 
