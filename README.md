@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@itunu_raimi](https://twitter.com/itunu_raimi) - chavitunu@gmail.com
+Itunu Raimi - [@itunu_raimi](https://twitter.com/itunu_raimi) - chavitunu@gmail.com
 
 Project Link: [https://github.com/pelumy/Audible-Onboarding-Process-Clone](https://github.com/pelumy/Audible-Onboarding-Process-Clone)
 
