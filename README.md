@@ -68,6 +68,7 @@ The Audible App allows for the downloading and playing of audio books purchased 
 * Swift
 * UIkit
 * Storyboard
+* MVC Architecture Pattern
 
 
 
